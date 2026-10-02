@@ -1,2 +1,2 @@
-# mustafiz.net
+# mustafiz.me
 My professional portfolio website
